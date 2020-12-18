@@ -1,0 +1,23 @@
+body {
+    height: 900px;
+    background-color: white;
+    margin: 0px;
+}
+#header {
+    background-color: azure;
+    position: fixed;
+    padding: 0px 910px 0px 910px;
+    top: -10px;
+    left: 0px;
+    z-index: 1;
+}
+#header-text {
+    text-align: center;
+    width: 48px;
+}
+#bodyer {
+    background-color: beige;
+    position: relative;
+    padding: 10px 40% 900px 40%;
+    
+}
